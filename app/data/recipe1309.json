@@ -6,5 +6,5 @@
   "mainImageUrl": "img/home/lasagna-1.png",
   "images": ["lasagna-1.png","lasagna-2.png","lasagna-3.png","lasagna-4.png"],
 
-  "ingredients": ["lasagna pasta", "tomatoes", "onions", "ground beef", "garlic", "cheese"]
+  "ingredients": ["lasagna pasta", "tomatoes", "onions", "ground beef", "garlic", "cheese", "salt", "water", "black pepper", "parsley"]
 }
