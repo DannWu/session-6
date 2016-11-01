@@ -38,3 +38,24 @@
         padding: 0 0.5rem;
     }
 }
+
+.images {
+    @media (min-width: $break-one) {
+        width: 50%;
+        float: left;
+    }
+}
+
+.text {
+    @media (min-width: $break-one) {
+        margin: 1.5rem 1rem 1rem 1rem;
+        float: left;
+        width: 50%;
+    }
+}
+
+.parent {
+    @media (min-width: $break-one) {
+        display: flex;
+    }
+}

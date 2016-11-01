@@ -266,4 +266,25 @@ img {
   padding: 0 0.5rem;
 }
 
+@media (min-width: 46.25rem) {
+  .images {
+    width: 50%;
+    float: left;
+  }
+}
+
+@media (min-width: 46.25rem) {
+  .text {
+    margin: 1.5rem 1rem 1rem 1rem;
+    float: left;
+    width: 50%;
+  }
+}
+
+@media (min-width: 46.25rem) {
+  .parent {
+    display: flex;
+  }
+}
+
 /*# sourceMappingURL=styles.css.map */
