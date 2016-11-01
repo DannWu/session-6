@@ -1,0 +1,9 @@
+{
+  "name": "recipe1810", 
+  "title": "Hamburger",
+  "date": "2012-10-20", 
+  "description": "A Hamburger (or often called as burger) is a type of food in the form of a rounded bread sliced in half and its Center is filled with patty which is usually taken from the meat, then the vegetables be lettuce, tomatoes and onions.", 
+  "mainImageUrl": "img/home/guacamole.png",
+  "images": ["hamburger.png","hamburger-2.jpg"],
+  "ingredients": ["ground beef", "onions","salt", "cayanne pepper", "black pepper", "egg", "minced garlic"]
+}
